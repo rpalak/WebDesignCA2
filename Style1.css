@@ -1,5 +1,5 @@
 ﻿body{
-    background-color:white;
+    background-color:Black;
     color:#0026ff;
     font-family:Arial, "Lucid Sans Unicode";
     font-size:87.5%;
@@ -41,7 +41,7 @@ nav{
 .mainContent{
     width: 60%;
     height: auto;
-    background: gray;
+    background: Black;
     float:left;
 }
 .rightContent{
