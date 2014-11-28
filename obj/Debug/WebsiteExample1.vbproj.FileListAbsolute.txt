@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\bin\WebsiteExample1.dll.config
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\bin\WebsiteExample1.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\bin\WebsiteExample1.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\bin\WebsiteExample1.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\obj\Debug\WebsiteExample1.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\obj\Debug\WebsiteExample1.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\obj\Debug\WebsiteExample1.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\obj\Debug\WebsiteExample1.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebsiteExample1\WebsiteExample1\obj\Debug\WebsiteExample1.pdb

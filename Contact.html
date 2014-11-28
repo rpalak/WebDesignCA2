@@ -1,0 +1,145 @@
+   
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+	<head>
+			<title> Cherry Cakes Contact Page</title>
+			<meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="Style1.css" />
+    <meta name="viewport" content="width=device=width, inital-scale=1.0" />
+</head>
+			
+			<script type = "text/javascript">
+				function validateForm(form){
+						if(form.fname.value==""){
+						alert("Please enter your name");
+						form.fname.focus();
+						return false;
+					}
+					else{
+						return true;
+						}
+					}
+				}
+			</script>
+			
+	</head>
+
+	
+	<body> 
+	<body class="body">
+    <header class="mainHeader">
+        <div class="mainHeader">
+            <p><h1>Cherry Occasional Cakes</h1></p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="Home.html">Home</a></li>
+                <li class="active"><a href="#">Cake Information</a></li>
+                <li><a href="About.html">About</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    	</header>
+<div id="Address">
+
+<h4>Address:</h4>
+RainbowCakes,<br>
+IFSC,Dublin.<br>
+Phone Number:000000
+ 
+</div>
+<h3>Contact Us</h3>
+		<!-- Form markup-->  
+		
+		<form method = "post" action = "mailto:rk.palakurthi9@gmail.com" onsubmit="return validateForm(this);">
+	<table>
+	<tr>	<td>First Name:</td>
+			<td><input name = "fname" type = "text" value = "Your Name Here" tabindex = "1" /></td>
+	</tr>
+	<tr>	<td>Middle Initial:</td>
+			<td><input name = "mname" type = "text" size = "3" maxlength = "3" tabindex = "3" /></td>
+	</tr>
+	<tr>	<td>Surname:</td>
+			<td><input name = "sname" type = "text"  tabindex = "2" /></td>
+	</tr>
+	<tr>	
+			<td>Phone No:</td>
+			<td><input name ="pno" type = "text" tabindex = "4" /></td>
+	</tr>
+	<tr>
+			<td>Email Id:</td>
+			<td><input nmae ="email" type = "text" tabindex ="5" /></td>
+	</tr>
+			
+	<tr>
+		<td>County </td>
+		<td><select multiple name = "county">
+			<optgroup label = "County" />
+				<option value = "dub">Dublin	</option>
+				<option value = "klde">Kildare</option>
+				<option value = "Me">Meath	</option>
+				<option value = "Wi">Wicklow</option>
+			
+			
+			</select>
+			
+		
+		</td>
+		
+	</tr>
+	
+
+	<tr>
+		<td colspan = "2"> 
+		Any Comments:<br />
+		<textarea rows = "10" cols = "20" name = "comments"></textarea> <br />
+		</td>
+	</tr>
+	
+	<tr>
+		<td><input type = "submit" value = "Click" /> 	</td>
+		<td><input type = "reset" />					</td>
+	
+	</tr>
+	</table>	
+		</form>
+		
+		
+
+	
+		
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <FONT SIZE="4" FACE="courier" COLOR=black><MARQUEE id="banner" WIDTH=100% BEHAVIOR=SCROLL LOOP=-1> 
+ <b>*******Please kindly submit Your details in Contact Us Form,CherryCakes *******</b></MARQUEE></FONT> 
+ <footer>
+ Copyright © CherryCakes.com
+ </footer>
+</div>
+</body>
+</html>

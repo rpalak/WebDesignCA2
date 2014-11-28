@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\bin\WebsiteExample1.dll.config
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\bin\WebsiteExample1.dll
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\bin\WebsiteExample1.pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\bin\WebsiteExample1.xml
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\obj\Debug\WebsiteExample1.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\obj\Debug\WebProject.vbproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\obj\Debug\WebsiteExample1.dll
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\obj\Debug\WebsiteExample1.xml
+C:\Users\acer\Documents\Visual Studio 2013\Projects\WebProject\WebProject\obj\Debug\WebsiteExample1.pdb
