@@ -31,7 +31,7 @@ nav ul li{
         */
 }
 nav{
-    background:orange;
+    background:Black;
 	font-style:oblique;
 	font-family:times new roman,bold;
 	font-size:120%;
@@ -65,7 +65,7 @@ nav{
     width:100%;
     height: auto;
     margin-bottom:20px;
-    background:Orange;
+    background:gray;
     border-radius:5px;
     -webkit-border-radius:5px;
     -o-border-radius:5px;
