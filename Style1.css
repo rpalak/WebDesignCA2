@@ -5,6 +5,9 @@
     font-size:87.5%;
     text-align:left;
     line-height:1.5;
+	margin:0 auto;
+    width: 80%;
+    clear:both;
 }
 a {
     text-decoration: none;
@@ -13,11 +16,7 @@ a:hover,a.active{
     background-color:#ffd800;
     color:#000305;
 }
-body{
-    margin:0 auto;
-    width: 70%;
-    clear:both;
-}
+
 .mainHeader img{
     width: 20%;
     height: auto;
@@ -82,3 +81,11 @@ nav{
     margin: 0 auto;
     padding: 10px 0 10px 0;
 }
+
+
+
+#wrapper{ width:100%; margin:auto; height:auto;}
+#container{ width:100%; height:auto; margin:auto;}
+
+.first_box{ width:50%; margin:0px; float:left; height:auto; margin-top:30px;}
+.second_box{ width:50%; margin:0px; float:left; height:auto; margin-top:30px;}
